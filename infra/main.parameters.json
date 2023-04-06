@@ -19,6 +19,9 @@
     },
      "azureTags": {
       "value": "${AZURE_TAGS}"
+    },
+    "githubRunId": {
+      "value": "${GITHUB_RUN_ID}"
     }
   }
 }
